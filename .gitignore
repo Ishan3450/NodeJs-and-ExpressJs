@@ -1,0 +1,4 @@
+# this file is used to to ignore the file to push while uploading code for backup
+# we can add multiple folders path in this file
+
+/node_modules

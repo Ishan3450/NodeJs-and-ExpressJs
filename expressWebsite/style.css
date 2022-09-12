@@ -1,0 +1,237 @@
+.head img{
+    width: 25%;
+    height: 25%;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+.menu ul li{
+    display: inline;
+    padding: 10px 30px;
+    border-radius: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu{
+    background-color: black;
+    padding: 5px 8px 5px 8px;    
+}
+.menu li:hover{
+    background-color: deeppink;
+}
+.quote p{
+    text-align: center;
+    font-size: 2rem;
+    background-color:azure;
+    margin: 0px;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.milkP img{
+    width: 18%;
+    height: 18%;
+    padding: 10px;
+    
+}
+.milkP li{
+    display: block;
+}
+#CurrProHeading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    padding-left: 20px;
+    padding-top: 10px;
+    color:cadetblue;
+}
+.content{
+    font-size: 18px;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    box-shadow: 1px 1px 5px;
+}
+
+/* aboutUs Page*/
+.pihead{
+    background-color: antiquewhite;
+    margin: 0px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.pihead p{
+    padding: 20px 20px 20px 10px;
+    margin: 0px;
+}
+.img img{
+    margin: 10px 10px 5px 0px;
+    width: 30%;
+    height: 30%;
+    border-radius: 5px;
+    float: left;
+}
+.info table{
+    margin: 12px 10px 5px 5px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 5px;
+}
+.info table:hover{
+    box-shadow: 2px 2px 8px;
+}
+.info td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 2%;
+}
+.currProj{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.currProj p{
+    padding: 20px 20px 20px 10px;
+}
+.proimg img{
+    width: 20%;
+    height: 15%;
+    float: left;
+}
+
+.intro td{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: justify;
+    width: 20%;
+}
+.intro th{
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+.footer{
+    text-align: center;
+    background-color:burlywood;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px 2px 0px 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Achievements Page */
+.head{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head p{
+    padding: 20px 20px 20px 10px;
+    margin: 0px; 
+}
+.certi1 img{
+    margin: 10px 10px 10px 10px;
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+.certi1 img:hover{
+    width: 35%;
+    height: 35%;    
+}
+.CHead p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: #FAD103;
+}
+.Ccontent p{
+    font-family:cursive;
+}
+.certi2{
+    clear: both;
+}
+.certi2 img{
+    margin: 10px 10px 10px 10px;
+    height: 25%;
+    width: 25%;
+    float: left;
+}
+.certi2 img:hover{
+    height: 35%;
+    width: 35%;
+}
+.TTHead p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: #FAD103;
+}
+.TTContent p{
+    font-family:cursive;
+}
+.TTContent{
+    float: left;
+}
+.ifCerti{
+    clear: both;
+}
+.ifCerti img{
+    margin: 10px 10px 10px 10px;
+    width: 25%;
+    height: 30%;
+    float: left;
+}
+.ifCerti img:hover{
+    width: 35%;
+    height: 40%;
+}
+.ifHead p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: #FAD103;
+}
+.ifContent p{
+    font-family: cursive;
+}
+.footer{
+    clear: both;
+}
+
+/* Contact Us */
+.CUhead{
+    background-color: antiquewhite;
+    margin: 0px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.CUhead p{
+    margin: 0px;
+    padding: 20px 20px 20px 10px;
+}
+.form table{
+    margin: 15px;
+    box-shadow: 1px 1px 5px;
+    padding: 1%;
+    background-color: whitesmoke;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+input:focus{
+    border: 3px solid rgb(126, 124, 124);
+}
+input[type=submit] {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    /* background-color: rgba(228, 226, 226, 0.856); */
+    background-color: #398b3c;
+    color: white;
+}
